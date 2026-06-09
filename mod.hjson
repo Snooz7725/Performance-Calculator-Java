@@ -1,9 +1,18 @@
-name: "performance-calculator"
 displayName: "Performance Calculator"
-author: "Snooze7725"
-main: src/scripts/Main.java
-description: "A simple mod, originally made by Lelushik/TheReDi, that displays the rate of many buildings. Doesn't work properly on Erekir yet."
-version: 1
-minGameVersion: 154
-icon: "icon"
-hidden: true
+
+#the internal name for the mod
+name: "performance-calculator"
+
+author: Snooz7725
+
+#the fully qualified main class of the mod
+#use "." for folders: "folder.file"
+main: "Main"
+
+description: "A mod."
+version: 1.0
+
+#the minimum game build required to run this mod
+minGameVersion: 158
+
+java: true
