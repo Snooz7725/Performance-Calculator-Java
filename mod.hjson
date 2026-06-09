@@ -7,7 +7,7 @@ author: Snooz7725
 
 #the fully qualified main class of the mod
 #use "." for folders: "folder.file"
-main: "performance_calc_java.CalcMain"
+main: "performance.CalcMain"
 
 description: "A mod."
 version: 1.0
