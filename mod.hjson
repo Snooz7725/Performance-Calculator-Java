@@ -7,7 +7,7 @@ author: Snooz7725
 
 #the fully qualified main class of the mod
 #use "." for folders: "folder.file"
-main: "Main"
+main: "CalcMain"
 
 description: "A mod."
 version: 1.0

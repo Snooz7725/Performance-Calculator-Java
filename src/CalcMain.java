@@ -6,9 +6,9 @@ import mindustry.game.EventType.*;
 import mindustry.mod.*;
 import mindustry.ui.dialogs.*;
 
-public class Main extends Mod{
+public class CalcMain extends Mod{
 
-    public Main(){
+    public CalcMain(){
         Log.info("Loaded main class constructor.");
 
         //listen for game load event
