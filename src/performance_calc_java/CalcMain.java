@@ -1,4 +1,4 @@
-package example;
+package performance_calc_java;
 
 import arc.*;
 import arc.util.*;
