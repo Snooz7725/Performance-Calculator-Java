@@ -19,7 +19,7 @@ public class CalcMain extends Mod{
                 dialog.cont.add("Behold. Bow, heathen!").row();
                 //mod sprites are prefixed with the mod name (this mod is called 'example-java-mod' in its config)
                 dialog.cont.image(Core.atlas.find("performance-calculator-frog")).pad(20f).row();
-                dialog.cont.button("Make Offering", dialog::hide).size(100f, 50f);
+                dialog.cont.button("Praise", dialog::hide).size(100f, 50f);
                 dialog.show();
             });
         });
